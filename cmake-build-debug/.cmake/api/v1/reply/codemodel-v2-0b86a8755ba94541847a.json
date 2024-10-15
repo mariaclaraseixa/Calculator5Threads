@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ExecutandoCalculosEmParaleloComThreads",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ExecutandoCalculosEmParaleloComThreads::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExecutandoCalculosEmParaleloComThreads-Debug-21528ce8c4ab4768a325.json",
+					"name" : "ExecutandoCalculosEmParaleloComThreads",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mariaclaraseixascheffel/CLionProjects/ExecutandoCalculosEmParaleloComThreads/cmake-build-debug",
+		"source" : "/Users/mariaclaraseixascheffel/CLionProjects/ExecutandoCalculosEmParaleloComThreads"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
